@@ -1,1 +1,0 @@
-# ShapeAi-Project-Weather-Info
